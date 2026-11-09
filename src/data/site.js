@@ -1,6 +1,7 @@
 // ============================================================
 //  SITE SETTINGS — edit these values first.
 //  Everything marked TODO is a placeholder you should replace.
+//  NOTE: phone, WhatsApp, email and social links below are DUMMY values.
 // ============================================================
 module.exports = {
   name: 'Muhammad Zubair',
@@ -14,9 +15,9 @@ module.exports = {
 
   // TODO: replace with your real contact details
   email: 'hello@muhammadzubair.design',
-  phone: '+92 300 0000000',
-  phoneHref: '+923000000000',
-  whatsapp: '923000000000',
+  phone: '+92 300 1234567',
+  phoneHref: '+923001234567',
+  whatsapp: '923001234567',
   city: 'Lahore', // TODO: your base city
   country: 'Pakistan',
   countryCode: 'PK',
@@ -28,10 +29,10 @@ module.exports = {
 
   // TODO: replace with your real profiles (leave '' to hide)
   social: {
-    linkedin: 'https://www.linkedin.com/in/your-profile',
-    behance: 'https://www.behance.net/your-profile',
-    dribbble: 'https://dribbble.com/your-profile',
-    instagram: 'https://www.instagram.com/your-profile',
+    linkedin: 'https://www.linkedin.com/in/muhammadzubair-design',
+    behance: 'https://www.behance.net/muhammadzubairdesign',
+    dribbble: 'https://dribbble.com/muhammadzubairdesign',
+    instagram: 'https://www.instagram.com/muhammadzubair.design',
   },
 
   areaServed: [
