@@ -69,8 +69,8 @@ const TOOLS = ['Figma', 'Adobe Illustrator', 'Adobe Photoshop', 'Adobe InDesign'
       </ul>
     </div>
     <div class="hero__art" aria-hidden="true">
-      <div class="hero__card hero__card--a"><span>Brand Identity</span><div class="swatches"><i style="background:#FF5A1F"></i><i style="background:#0E0E10"></i><i style="background:#F4F1EC"></i><i style="background:#7C5CFF"></i></div></div>
-      <div class="hero__card hero__card--b"><svg viewBox="0 0 48 48"><path d="M10 34V14l9 11 9-11" fill="none" stroke="#fff" stroke-width="3.6"/><path d="M28 14h10L28 34h10" fill="none" stroke="#FF5A1F" stroke-width="3.6"/></svg></div>
+      <div class="hero__card hero__card--a"><span>Brand Identity</span><div class="swatches"><i style="background:#2563EB"></i><i style="background:#0E0E10"></i><i style="background:#F3F5F9"></i><i style="background:#0EA5E9"></i></div></div>
+      <div class="hero__card hero__card--b"><svg viewBox="0 0 48 48"><path d="M10 34V14l9 11 9-11" fill="none" stroke="#fff" stroke-width="3.6"/><path d="M28 14h10L28 34h10" fill="none" stroke="#2563EB" stroke-width="3.6"/></svg></div>
       <div class="hero__card hero__card--c"><span>UI/UX</span><div class="ui-lines"><i></i><i></i><i></i><b></b></div></div>
       <div class="hero__card hero__card--d"><strong>${years}+</strong><span>Years in design</span></div>
     </div>

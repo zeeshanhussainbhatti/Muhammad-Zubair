@@ -13,7 +13,7 @@ module.exports = [
   { title: 'Zaitoon Foods', type: 'Packaging & Labels', filter: 'packaging', colors: ['#3F4A1E', '#D7C24C'] },
   { title: 'FinEdge Dashboard', type: 'SaaS Product Design', filter: 'uiux', colors: ['#1E1B4B', '#A78BFA'] },
   { title: 'Rangrez Textiles', type: 'Company Profile', filter: 'print', colors: ['#7F1D1D', '#F59E0B'] },
-  { title: 'Peak Fitness', type: 'Logo & Social Media', filter: 'branding', colors: ['#0A0A0A', '#FF5A1F'] },
+  { title: 'Peak Fitness', type: 'Logo & Social Media', filter: 'branding', colors: ['#0A0A0A', '#2563EB'] },
   { title: 'Saffron Studio', type: 'Shopify Store', filter: 'web', colors: ['#4A1D2F', '#F2A65A'] },
   { title: 'Kinetic Pitch', type: 'Investor Pitch Deck', filter: 'print', colors: ['#0F172A', '#22D3EE'] },
   { title: 'Bazaar Reels', type: 'Motion Graphics', filter: 'motion', colors: ['#312E81', '#F472B6'] },
